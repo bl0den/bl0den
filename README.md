@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![CodeWars Badge](https://www.codewars.com/users/bl0den/badges/small)
+
 <!--
 **bl0den/bl0den** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
